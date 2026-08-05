@@ -1,9 +1,7 @@
 # Hi 👋
 
-<h1 align="center">I'm Olga ✨</h1>
-
 <p align="center">
-Creative Frontend Developer focused on immersive interfaces, smooth animations, and modern web experiences.
+I'm a Creative Frontend Developer focused on immersive interfaces, smooth animations, and modern web experiences.
 </p>
 
 ---
