@@ -1,12 +1,9 @@
-# Hi 👋
-
-<p align="center">
-I'm a Creative Frontend Developer focused on immersive interfaces, smooth animations, and modern web experiences.
+<p> I'm a Creative Frontend Developer focused on immersive interfaces, smooth animations, and modern web experiences.
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🌱 Currently learning **Next.js**
 - ⚡ Specialized in smooth interactions and modern UI
@@ -16,7 +13,7 @@ I'm a Creative Frontend Developer focused on immersive interfaces, smooth animat
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 <p>
@@ -52,7 +49,7 @@ I'm a Creative Frontend Developer focused on immersive interfaces, smooth animat
 
 ---
 
-## ✨ What I Like Building
+## What I Like Building
 
 - Interactive landing pages
 - Smooth scrolling experiences
