@@ -9,6 +9,7 @@
 - ⚡ Specialized in smooth interactions and modern UI
 - 💡 Exploring motion systems & 3D web experiences
 - 🎨 Passionate about animation-driven interfaces
+- 🚀 Interested in creative development & experimental web
 - 📍 Based in Alicante, Spain
 
 ---
@@ -17,53 +18,58 @@
 
 ### Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=FF5D01" />
-  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/SCSS-0d1117?style=flat-square&logo=sass&logoColor=CC6699" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/Astro-0d1117?style=flat-square&logo=astro&logoColor=FF5D01" />
 </p>
 
 ### Animation & Interaction
-<p> 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Framer_Motion-0d1117?style=flat-square&logo=framer&logoColor=0055FF" />
+  <img src="https://img.shields.io/badge/GSAP-0d1117?style=flat-square&logo=greensock&logoColor=88CE02" />
+  <img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Framer-0d1117?style=flat-square&logo=framer&logoColor=0055FF" />
+  <img src="https://img.shields.io/badge/Lenis-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spline-0d1117?style=flat-square" />
+</p>
+
+### Internationalization
+<p>
+  <img src="https://img.shields.io/badge/i18next-0d1117?style=flat-square&logo=i18next&logoColor=26A69A" />
+  <img src="https://img.shields.io/badge/Locize-0d1117?style=flat-square" />
+</p>
+
+### Headless CMS
+<p>
+  <img src="https://img.shields.io/badge/Sanity-0d1117?style=flat-square&logo=sanity&logoColor=F03E2F" />
+  <img src="https://img.shields.io/badge/Strapi-0d1117?style=flat-square&logo=strapi&logoColor=4945FF" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-0d1117?style=flat-square&logo=eslint&logoColor=4B32C3" />
 </p>
 
 ---
 
-## What I Like Building
-
-- Interactive landing pages
-- Smooth scrolling experiences
-- Animated interfaces
-- Creative portfolios
-- Experimental web projects
-- Modern UI systems
-
----
-
-## 📫 Connect With Me
+## Connect With Me
 
 - ✉️ Email: olga.rozmetova@gmail.com
 
 ---
+
+
+
 
 
