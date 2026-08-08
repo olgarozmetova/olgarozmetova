@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=61DAFB&background=0D1117&center=true&vCenter=true&width=600&lines=Creative+Frontend+Developer;Building+immersive+web+interfaces;Motion-driven+UI+%26+3D+experiences;Turning+ideas+into+smooth+interactions" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  I'm a Creative Frontend Developer focused on immersive interfaces, smooth animations, and modern web experiences.
-</p>
-
 ---
 
 ## About Me
