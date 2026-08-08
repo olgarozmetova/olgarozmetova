@@ -1,4 +1,9 @@
-<p> I'm a Creative Frontend Developer focused on immersive interfaces, smooth animations, and modern web experiences.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=61DAFB&background=0D1117&center=true&vCenter=true&width=600&lines=Creative+Frontend+Developer;Building+immersive+web+interfaces;Motion-driven+UI+%26+3D+experiences;Turning+ideas+into+smooth+interactions" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  I'm a Creative Frontend Developer focused on immersive interfaces, smooth animations, and modern web experiences.
 </p>
 
 ---
@@ -32,7 +37,7 @@
 
 ### Animation & Interaction
 <p>
-  <img src="https://img.shields.io/badge/Framer_Motion-0d1117?style=flat-square&logo=framer&logoColor=0055FF" />
+  <img src="https://img.shields.io/badge/Motion-0d1117?style=flat-square&logo=framer&logoColor=0055FF" />
   <img src="https://img.shields.io/badge/GSAP-0d1117?style=flat-square&logo=greensock&logoColor=88CE02" />
   <img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E" />
   <img src="https://img.shields.io/badge/Framer-0d1117?style=flat-square&logo=framer&logoColor=0055FF" />
