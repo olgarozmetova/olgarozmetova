@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Astro-0d1117?style=flat-square&logo=astro&logoColor=FF5D01" />
 </p>
 
-### Animation & Interaction
+### Motion & Interaction
 <p>
   <img src="https://img.shields.io/badge/Motion-0d1117?style=flat-square&logo=framer&logoColor=0055FF" />
   <img src="https://img.shields.io/badge/GSAP-0d1117?style=flat-square&logo=greensock&logoColor=88CE02" />
