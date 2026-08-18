@@ -6,12 +6,11 @@
 
 ## About Me
 
-- 🌱 Currently learning **Next.js**
-- ⚡ Specialized in smooth interactions and modern UI
-- 💡 Exploring motion systems & 3D web experiences
-- 🎨 Passionate about animation-driven interfaces
-- 🚀 Interested in creative development & experimental web
-- 📍 Based in Alicante, Spain
+- → Learning **Next.js** & building modern, interactive web experiences
+- ✦ Exploring **Three.js**, **3D** & **WebGL**
+- ◌ Focused on motion, animation & smooth interactions
+- ◇ Interested in creative development & experimental web
+- ⌖ Based in Alicante, Spain
 
 ---
 
@@ -23,12 +22,13 @@
   <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/SCSS-0d1117?style=flat-square&logo=sass&logoColor=CC6699" />
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764ABC" />
   <img src="https://img.shields.io/badge/Astro-0d1117?style=flat-square&logo=astro&logoColor=FF5D01" />
+  <img src="https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764ABC" />
+  
 </p>
 
 ### Motion & Interaction
