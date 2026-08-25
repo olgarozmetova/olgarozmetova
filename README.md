@@ -27,8 +27,7 @@
   <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Router-0d1117?style=flat-square&logo=reactrouter&logoColor=CA4245" />
   <img src="https://img.shields.io/badge/Astro-0d1117?style=flat-square&logo=astro&logoColor=FF5D01" />
-  <img src="https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764ABC" />
-  
+    
 </p>
 
 ### Motion & Interaction
